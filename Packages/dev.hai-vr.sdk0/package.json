@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.sdk0",
   "displayName": "dev.hai-vr.sdk0",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "unity": "2019.4",
   "description": "dev.hai-vr.sdk0",
   "vrchatVersion" : "2022.1.1",
