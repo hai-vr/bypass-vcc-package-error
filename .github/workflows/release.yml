@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  packageName: "dev.hai-vr.temp-package-test"
+  packageName: "dev.hai-vr.sdk0"
 
 permissions:
   contents: write
