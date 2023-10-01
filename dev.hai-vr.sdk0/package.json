@@ -1,0 +1,11 @@
+{
+  "name": "dev.hai-vr.sdk0",
+  "displayName": "dev.hai-vr.sdk0",
+  "version": "0.0.0",
+  "unity": "2019.4",
+  "description": "dev.hai-vr.sdk0",
+  "author" : {
+    "name" : "Haï~"
+  },
+  "url" : "https://docs.hai-vr.dev/docs/products/SDK0"
+}
