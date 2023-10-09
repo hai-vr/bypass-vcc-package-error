@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  packageName: "dev.hai-vr.sdk0"
+  packageName: "dev.hai-vr.bypass-vcc-package-error"
 
 permissions:
   contents: write

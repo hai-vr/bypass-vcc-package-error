@@ -8,5 +8,13 @@
   "author" : {
     "name" : "Haï~"
   },
+  "vpmDependencies": {
+    "dev.hai-vr.animator-as-code.v1": "~1.0.9907",
+    "dev.hai-vr.animator-as-code.v1.vrchat": "~1.0.9905",
+    "dev.hai-vr.animator-as-code.v1.modular-avatar": "~1.0.9906",
+    "dev.hai-vr.animator-as-code.v1.ndmf-processor": "~1.0.9903",
+    "nadena.dev.ndmf": "~1.2.1",
+    "nadena.dev.modular-avatar": "~1.8.0"
+  },
   "url" : "https://docs.hai-vr.dev/docs/products"
 }
