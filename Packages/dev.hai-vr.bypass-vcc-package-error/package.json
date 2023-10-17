@@ -9,10 +9,10 @@
     "name" : "Haï~"
   },
   "vpmDependencies": {
-    "dev.hai-vr.animator-as-code.v1": "~1.0.9907",
-    "dev.hai-vr.animator-as-code.v1.vrchat": "~1.0.9905",
-    "dev.hai-vr.animator-as-code.v1.modular-avatar": "~1.0.9906",
-    "dev.hai-vr.animator-as-code.v1.ndmf-processor": "~1.0.9903",
+    "dev.hai-vr.animator-as-code.v1": "~1.0.9910",
+    "dev.hai-vr.animator-as-code.v1.vrchat": "~1.0.9910",
+    "dev.hai-vr.animator-as-code.v1.modular-avatar": "~1.0.9910",
+    "dev.hai-vr.animator-as-code.v1.ndmf-processor": "~1.0.9910",
     "dev.hai-vr.sdk0": "~0.0.4-alpha",
     "nadena.dev.ndmf": "~1.2.2",
     "nadena.dev.modular-avatar": "~1.8.1"
