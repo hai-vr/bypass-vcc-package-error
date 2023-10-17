@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.bypass-vcc-package-error",
   "displayName": "Haï~ - Bypass VCC Package Error",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "unity": "2019.4",
   "description": "This package exists to bypass some errors in VCC. Only install this package if you are instructed to.",
   "vrchatVersion" : "2022.1.1",
@@ -9,10 +9,10 @@
     "name" : "Haï~"
   },
   "vpmDependencies": {
-    "dev.hai-vr.animator-as-code.v1": "~1.0.9910",
-    "dev.hai-vr.animator-as-code.v1.vrchat": "~1.0.9910",
-    "dev.hai-vr.animator-as-code.v1.modular-avatar": "~1.0.9910",
-    "dev.hai-vr.animator-as-code.v1.ndmf-processor": "~1.0.9910",
+    "dev.hai-vr.animator-as-code.v1": "~1.0.9911",
+    "dev.hai-vr.animator-as-code.v1.vrchat": "~1.0.9911",
+    "dev.hai-vr.animator-as-code.v1.modular-avatar": "~1.0.9911",
+    "dev.hai-vr.animator-as-code.v1.ndmf-processor": "~1.0.9911",
     "nadena.dev.ndmf": "~1.2.2",
     "nadena.dev.modular-avatar": "~1.8.1"
   },
